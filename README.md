@@ -11,3 +11,19 @@ Dessa forma, minimizamos riscos e reforçamos a integridade do ambiente corporat
 
 ## Objetivo
 Este repositório reúne scripts e orientações para facilitar o agendamento e o monitoramento das análises do Microsoft Defender Antivirus em dispositivos gerenciados pelo Intune, promovendo um ambiente mais seguro e em conformidade com as melhores práticas de cibersegurança.
+
+---
+
+## English
+
+To keep company devices properly protected against virtual threats, it is essential to regularly schedule scans with Microsoft Defender Antivirus. This procedure must strictly follow the guidelines defined by the information security department, ensuring that all equipment is up to date and monitored according to cybersecurity best practices.
+
+Additionally, it is recommended to:
+- Set automatic update policies for Microsoft Defender.
+- Periodically monitor scan reports and device protection status.
+- Perform regular audits to ensure compliance with security policies.
+
+By doing so, we minimize risks and strengthen the integrity of the corporate environment.
+
+### Purpose
+This repository brings together scripts and guidelines to facilitate the scheduling and monitoring of Microsoft Defender Antivirus scans on devices managed by Intune, promoting a safer environment in compliance with cybersecurity best practices.
